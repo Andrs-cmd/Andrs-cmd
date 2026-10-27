@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Andres Prada 👋
 
-<!--
-**Andrs-cmd/Andrs-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer & Visual Creator** · Bogotá, Colombia 🇨🇴
 
-Here are some ideas to get you started:
+Construyo experiencias digitales entre el código, el movimiento y el arte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 **Apps web a la medida** — React · Node · TypeScript · PostgreSQL  
+🌐 **Landings y e-commerce** — Next.js · Tailwind · Stripe  
+🎞️ **Motion y 3D** — Three.js · WebGL · GLSL · Blender  
+🤖 **Automatizaciones** — n8n + IA  
+📷 **Fotografía** editorial y comercial  
+
+**Proyectos:** Córtex · Sellu · Átropos · NOCTURNA · Lead Agent
+
+🔗 https://andresprada.online · ✉️ aprada.web@gmail.com
